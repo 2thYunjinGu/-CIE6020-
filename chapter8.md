@@ -38,9 +38,11 @@ That is,
 
 也就是说，
 
-$$
-\lim_{n\to\infty}\Pr\left\{\left|\frac{1}{n}\sum_{i=1}^n X_i-\mathbb{E}[X]\right|>\varepsilon\right\}=0, \qquad \forall \varepsilon>0
-$$
+也就是说，
+
+\[
+\lim_{n\to\infty}\Pr\left\{\left|\frac{1}{n}\sum_{i=1}^n X_i-\mathbb{E}[X]\right|>\varepsilon\right\}=0,\qquad \forall \varepsilon>0
+\]
 
 ---
 
